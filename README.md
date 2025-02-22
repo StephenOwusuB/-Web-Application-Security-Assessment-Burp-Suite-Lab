@@ -94,7 +94,7 @@ Interception is on to check the website
 ![Alt text](https://github.com/StephenOwusuB/-Web-Application-Security-Assessment-Burp-Suite-Lab/blob/main/images/interception_on.png)
 
 Right click and click to repeater 
-![Alt text](/Images/interception_to_repeater.png)
+![Alt text](https://github.com/StephenOwusuB/-Web-Application-Security-Assessment-Burp-Suite-Lab/blob/main/images/interception_to_repeater.png)
 
 ![Alt text](https://github.com/StephenOwusuB/-Web-Application-Security-Assessment-Burp-Suite-Lab/blob/main/images/raw.png)
 
