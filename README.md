@@ -29,11 +29,11 @@ For Free go with community edition and download in your local system.
 
 First we need to install 
 1. Java [https://www.oracle.com/uk/java/technologies/downloads/]
-2. ![Alt text](/Images/image.png)
+2. ![Alt text](https://github.com/StephenOwusuB/-Web-Application-Security-Assessment-Burp-Suite-Lab/blob/main/images/image.png)
 
 we need to install the burpsuite community edition
 Link [https://portswigger.net/burp/documentation/desktop/getting-started/download-and-install]
-![Alt text](/Images/image2.png)
+![Alt text](https://github.com/StephenOwusuB/-Web-Application-Security-Assessment-Burp-Suite-Lab/blob/main/images/image2.png)
 
 # HTTP & how it works
 1. HTTP stands for hypertext transfer protocol and is used to transfer data across the Web.
@@ -65,16 +65,16 @@ __TRACE__ The Trace method performs a message loop-back test along the path to t
 How to setup Free Web app Penetesting Lab on Cloud
 
 Please visit this website for installation: [https://owasp.org/www-project-juice-shop/]
-![Alt text](/Images/image4.png)
+![Alt text](https://github.com/StephenOwusuB/-Web-Application-Security-Assessment-Burp-Suite-Lab/blob/main/images/image4.png)
 
 The below the OWASP documentation github repository
-![Alt text](/Images/image5.png)
+![Alt text](https://github.com/StephenOwusuB/-Web-Application-Security-Assessment-Burp-Suite-Lab/blob/main/images/image5.png)
 
 Check in README.md file for Deploy the app in Heruko.
-![Alt text](/Images/image6.png)
+![Alt text](https://github.com/StephenOwusuB/-Web-Application-Security-Assessment-Burp-Suite-Lab/blob/main/images/image6.png)
 
 Check my deployed Website through Heroku: [https://ows-9b48a3aa05fe.herokuapp.com/#/]
-![Alt text](/Images/image3.png)
+![Alt text](https://github.com/StephenOwusuB/-Web-Application-Security-Assessment-Burp-Suite-Lab/blob/main/images/image3.png)
 
 
 # Burpsuite Repeater 
@@ -88,34 +88,34 @@ Check my deployed Website through Heroku: [https://ows-9b48a3aa05fe.herokuapp.co
 
 
 Take some website for pen testing example: [http://www.testphp.vulweb.com/login-php]
-![Alt text](/Images/website.png)
+![Alt text](https://github.com/StephenOwusuB/-Web-Application-Security-Assessment-Burp-Suite-Lab/blob/main/images/website.png)
 
 Interception is on to check the website
-![Alt text](/Images/interception_on.png)
+![Alt text](https://github.com/StephenOwusuB/-Web-Application-Security-Assessment-Burp-Suite-Lab/blob/main/images/interception_on.png)
 
 Right click and click to repeater 
 ![Alt text](/Images/interception_to_repeater.png)
 
-![Alt text](/Images/raw.png)
+![Alt text](https://github.com/StephenOwusuB/-Web-Application-Security-Assessment-Burp-Suite-Lab/blob/main/images/raw.png)
 
-![Alt text](/Images/repeater_raw_view.png)
+![Alt text](https://github.com/StephenOwusuB/-Web-Application-Security-Assessment-Burp-Suite-Lab/blob/main/images/repeater_raw_view.png)
 
-![Alt text](/Images/Repeater_render.png)
+![Alt text](https://github.com/StephenOwusuB/-Web-Application-Security-Assessment-Burp-Suite-Lab/blob/main/images/Repeater_render.png)
 
-![Alt text](/Images/wrong_password_302_status_code.png)
+![Alt text](https://github.com/StephenOwusuB/-Web-Application-Security-Assessment-Burp-Suite-Lab/blob/main/images/wrong_password_302_status_code.png)
 
 I have done the SQL injection Attack, check the status code 200
-![Alt text](/Images/SQL_injection_attacj_200_Status_code.png)
+![Alt text](https://github.com/StephenOwusuB/-Web-Application-Security-Assessment-Burp-Suite-Lab/blob/main/images/SQL_injection_attacj_200_Status_code.png)
 
 We can do the SQL injection attack here not to check the website
-![Alt text](/Images/SQL_Injection_attacj_render_part.png)
+![Alt text](https://github.com/StephenOwusuB/-Web-Application-Security-Assessment-Burp-Suite-Lab/blob/main/images/SQL_Injection_attacj_render_part.png)
 
 # Burpsuite Intruder
 
 Burp Suite's Intruder tool is a powerful feature designed for automated web application security testing, particularly for tasks that involve varying input data to identify vulnerabilities or test the application's response. Here are some common use cases for Burp Suite's Intruder:
 
 Website link [http://testfire.net/]
-![Alt text](/Images/Repeater_render.png)
+![Alt text](https://github.com/StephenOwusuB/-Web-Application-Security-Assessment-Burp-Suite-Lab/blob/main/images/Repeater_render.png)
 
 1. **Fuzzing Parameters:**
    - Intruder can be used to fuzz different parameters of an HTTP request with various payloads (e.g., strings, numbers, special characters) to identify vulnerabilities like SQL injection, Cross-Site Scripting (XSS), or other injection vulnerabilities.
@@ -147,13 +147,13 @@ Website link [http://testfire.net/]
 
 Intruder is a versatile tool that can save time and effort when conducting thorough security assessments of web applications. However, it should be used responsibly and ethically, and with proper authorization, as automated scanning tools can potentially disrupt or harm web applications if not used carefully.
 
-![Alt text](/Images/Screenshot%202023-09-27%20011202.png)
+![Alt text](https://github.com/StephenOwusuB/-Web-Application-Security-Assessment-Burp-Suite-Lab/blob/main/images/Screenshot%202023-09-27%20011202.png)
 
-![Alt text](/Images/Screenshot%202023-09-27%20011616.png)
+![Alt text](https://github.com/StephenOwusuB/-Web-Application-Security-Assessment-Burp-Suite-Lab/blob/main/images/Screenshot%202023-09-27%20011616.png)
 
-![Alt text](/Images/Screenshot%202023-09-27%20011811.png)
+![Alt text](https://github.com/StephenOwusuB/-Web-Application-Security-Assessment-Burp-Suite-Lab/blob/main/images/Screenshot%202023-09-27%20011811.png)
 
-![Alt text](/Images/Screenshot%202023-09-27%20012140.png)
+![Alt text](https://github.com/StephenOwusuB/-Web-Application-Security-Assessment-Burp-Suite-Lab/blob/main/images/Screenshot%202023-09-27%20012140.png)
 
 Burp Suite, a popular web application security testing tool, offers several additional functionalities to assist in various aspects of security testing and analysis. Among these are the Burp Suite Sequencer, Comparer, and Decoder tools:
 
@@ -189,17 +189,17 @@ Sample website for use the tools for practice
 link [https://bwapp.hakhub.net/login-php]
 
 
-![Alt text](/Images/1.png)
+![Alt text](https://github.com/StephenOwusuB/-Web-Application-Security-Assessment-Burp-Suite-Lab/blob/main/images/1.png)
 
-![Alt text](/Images/2.png)
+![Alt text](https://github.com/StephenOwusuB/-Web-Application-Security-Assessment-Burp-Suite-Lab/blob/main/images/2.png)
 
-![Alt text](/Images/3.png)
+![Alt text](https://github.com/StephenOwusuB/-Web-Application-Security-Assessment-Burp-Suite-Lab/blob/main/images/3.png)
 
-![Alt text](/Images/4.png)
+![Alt text](https://github.com/StephenOwusuB/-Web-Application-Security-Assessment-Burp-Suite-Lab/blob/main/images/4.png)
 
-![Alt text](/Images/5.png)
+![Alt text](https://github.com/StephenOwusuB/-Web-Application-Security-Assessment-Burp-Suite-Lab/blob/main/images/5.png)
 
-![Alt text](/Images/6.png)
+![Alt text](https://github.com/StephenOwusuB/-Web-Application-Security-Assessment-Burp-Suite-Lab/blob/main/images/6.png)
 
 
 
